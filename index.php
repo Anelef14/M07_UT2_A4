@@ -1,10 +1,10 @@
 <?php
-$restaurants = [
-"Restaurant1",
-"Restaurant2",
-"Restaurant3",
-"Restaurant4"
-];
+    $restaurants = [
+    "Restaurant1",
+    "Restaurant2",
+    "Restaurant3",
+    "Restaurant4"
+    ];
 ?>
 <!DOCTYPE html>
 <html lang="en">
